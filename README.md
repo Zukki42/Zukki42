@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hey, I’m Zukki
+# 👋 Hey, I’m Zukki / Eddie!
 
 Welcome to my digital workspace — hell where somehow my code does actually compile. 😄  
 I’m a **42 student** focused on low-level programming, optimization, and building projects that actually *work* (most of the time).
